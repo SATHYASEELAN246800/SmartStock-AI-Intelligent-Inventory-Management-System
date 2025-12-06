@@ -23,6 +23,7 @@ This system is designed for **enterprises, warehouses, retail chains, startups**
 ## 🚀 Live Demo
 
 🔗 **Deployed App:** [https://intelli-stock-ai-eb32a194.base44.app](https://intelli-stock-ai-eb32a194.base44.app)
+
 🔗 **Workspace (Editor Preview):** [https://app.base44.com/apps/68fb9c50bb4bef71eb32a194/editor/preview/dashboard](https://app.base44.com/apps/68fb9c50bb4bef71eb32a194/editor/preview/dashboard)
 
 ---
